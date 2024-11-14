@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mandal shrey</h1>
+<h1 align="center">Hi 👋, I'm shrey</h1>
 <h3 align="center">A beginner who started to code</h3>
 
 - 🌱 I’m currently learning **C**
